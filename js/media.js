@@ -135,6 +135,7 @@ $(document).ready(function () {
     autoplay: {
       delay: 2000,
       disableOnInteraction: true,
+      pagination:true,
     },
     pagination: {
       el: ".swiper-pagination",
